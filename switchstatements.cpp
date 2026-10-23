@@ -1,9 +1,9 @@
 #include <iostream>
-usimg namespace std;
+using namespace std;
 
 int main ()
 {
-   int grade;
+   char grade;
 
    cout<<"Please enter your grade"<<endl;
    cin>> grade;
