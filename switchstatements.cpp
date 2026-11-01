@@ -19,6 +19,6 @@ int main ()
        default : cout<<"INVALID ENTRY"<<endl;
        break;
    }
-   return 0
+   return 0;
 }
        
